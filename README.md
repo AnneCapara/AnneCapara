@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnneCapara
 - 👀 I’m interested in Nursing, Computers, Nature and Music.
-- 🔅 I’m taking [CS50 course](https://cs50.harvard.edu/x/2021/){:target="_blank"}  from Harvard
+- 🔅 I’m taking [CS50 course](https://cs50.harvard.edu/x/2021/)  from Harvard
 - 🌱 I’m currently learning JavaScript
 
 <!---
